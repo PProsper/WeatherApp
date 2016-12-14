@@ -1,0 +1,32 @@
+body{
+
+  font-family: sans-serif;
+}
+
+h2 {
+  display: block;
+  width: 100%;
+  background-color: skyblue;
+  padding-top: : 10px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+#weather {
+
+  display: block;
+  text-align: center;
+  margin: 20px;
+  border-radius: 5px;
+  padding: 10px;
+
+}
+
+#search {
+
+  display: block;
+  text-align: center;
+  margin: 20px;
+  border-radius: 5px;
+
+}
